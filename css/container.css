@@ -1,0 +1,26 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+  }
+  .third-page-card {
+    width: 1200px;
+    height: 865px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 147px;
+  }
+  .fourth-page {
+    width: 1200px;
+    height: 688px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 230px;
+  }
+  .selection-box {
+    width: 500px;
+    height: 356px;
+    border-radius: 10px;
+    border: 1px solid black;
+  }
